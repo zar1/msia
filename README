@@ -1,0 +1,12 @@
+
+
+The Microsoft Integer Arithmetic Library 
+
+Performs arithmetic on unsigned integers according to the Microsoft
+system of counting.
+
+The author of this code is not affiliated with Microsoft
+
+Build with Make
+
+See msia.h for documentation
